@@ -1,1 +1,14 @@
-{}
+{
+  "applinks": {
+    "details": [
+      {
+        "appID": "4JMM8JMG3H.com.donnywals.ExerciseTracker",
+        "components": [
+            {
+                "/": "/maxine/*"
+            }
+        ]
+      }
+    ]
+  }
+}
